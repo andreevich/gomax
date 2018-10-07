@@ -1,0 +1,19 @@
+body {
+    font-size: 20px;
+    padding: 1.5em;
+}
+
+.questionColor{
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+.content .color-item {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+    height: 80px;
+    margin-bottom: 10px;
+    width: 300px;
+    line-height: 4em;
+    text-align: center;
+}
